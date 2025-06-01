@@ -1,3 +1,33 @@
+# E-Commerce Website for a Pharmacy
+
+This project is a PHP-based e-commerce website built for a pharmacy, allowing customers to browse products, add them to a cart, and complete purchases online. It includes backend logic, a MySQL database, and a responsive frontend design.
+
+---
+
+## 🚀 Features
+
+✅ User registration and login  
+✅ Product browsing and search  
+✅ Shopping cart and checkout  
+✅ Order management system  
+✅ MySQL database integration  
+✅ Responsive UI with Bootstrap
+
+---
+
+## 🛠️ Technologies Used
+
+- **Backend:** PHP
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Database:** MySQL
+- **Other Tools:** jQuery, phpMyAdmin
+
+---
+
+## 📁 Project Structure
+
+
+
 Project Description
 
 Developed an e-commerce website for a pharmacy. 

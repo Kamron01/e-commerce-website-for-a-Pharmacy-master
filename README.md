@@ -43,6 +43,7 @@ The system uses a MySQL database and includes both frontend and backend componen
 ├── js/
 └── images/
 pharmacy_db.sql → database schema and sample data
+```
 
 🧩 Main Functional Pages
 

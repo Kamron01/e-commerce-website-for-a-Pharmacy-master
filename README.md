@@ -64,7 +64,7 @@ MySQL 5.7 or higher
 Apache server (for local development)
 
 ## Admin
-Login: Kamron@gmail.com
+Login: Kamron@gmail.com            
 Parol: kamron@03
 
 🤝 Contribution Guide

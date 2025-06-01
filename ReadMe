@@ -27,7 +27,7 @@ It includes backend logic, a MySQL database, and a responsive frontend design.
 
 ## 📁 Project Structure
 
-```
+```bash
 /src
 ├── index.php
 ├── about.php
